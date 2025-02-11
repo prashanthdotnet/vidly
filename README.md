@@ -1,6 +1,6 @@
 # Vidly
 
-Vidly is a video rental application designed to manage and streamline the rental process. This project is built with [specify the language/framework used, e.g., ASP.NET, Node.js, etc.] and showcases [briefly describe the main features or purpose of the project].
+Vidly is a video rental application designed to manage and streamline the rental process. This project is built with Python, Django and showcases a generic movie renting service.
 
 ## Features
 - **User Management**: Register, login, and manage user accounts.
@@ -28,9 +28,6 @@ To set up the project locally, follow these steps:
    ```bash
    [command to start the application, e.g., npm start, dotnet run]
    ```
-
-## Usage
-[Provide instructions on how to use the application, e.g., how to navigate the app, perform rentals, manage users, etc.]
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
